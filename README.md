@@ -71,8 +71,8 @@ I’m **Hytham Tag**, a Mechatronics Engineer and Robotics Lecturer who thrives 
 ## 🧪 Selected Publications
 
 - **IEEE AIRC 2024** – Adaptive Robotic Grasping with Replay Tail Memory
-- **EnhancedPushGrasp (2024)** – 95% DRL-based object manipulation in clutter – under review
-- **GA-Optimized LQR for Crane Control** – under review
+- **EnhancedPushGrasp (2025)** – 95% DRL-based object manipulation in clutter – under review
+- **GA-Optimized LQR for Crane Control (2025)** – under review
 
 ---
 
