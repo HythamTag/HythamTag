@@ -23,9 +23,6 @@ I’m **Hytham Tag**, a Mechatronics Engineer and Robotics Lecturer who thrives 
 
 ---
 
-## 💼 Tech Stack
-
-<p align="center">
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
