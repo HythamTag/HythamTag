@@ -1,7 +1,7 @@
 
 <h1 align="center">👨‍🔬 Hytham Tag</h1>
 <p align="center">
-  <b>Mechatronics Engineer | Robotics Researcher | Embedded Systems Developer</b><br>
+  <b>Mechatronics Engineer | Junior Robotics Researcher | Embedded Systems Developer</b><br>
   Assistant Lecturer · Robotics Mentor · AI Explorer
 </p>
 
@@ -62,14 +62,6 @@ I’m **Hytham Tag**, a Mechatronics Engineer and Robotics Lecturer who thrives 
 - Task & Motion Planning in Real-World Scenes
 - Vision-Based Grasping and 3D Perception
 - Embedded Robotics with Optimization Methods
-
----
-
-## 🧪 Selected Publications
-
-- **IEEE AIRC 2024** – Adaptive Robotic Grasping with Replay Tail Memory
-- **EnhancedPushGrasp (2025)** – 95% DRL-based object manipulation in clutter – under review
-- **GA-Optimized LQR for Crane Control (2025)** – under review
 
 ---
 
