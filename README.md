@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 
-I’m **Hytham Tag**, a Mechatronics Engineer and Robotics Lecturer who thrives on building systems that sense, learn, and adapt. With years of experience in academia, competitive robotics, and industrial prototyping, I specialize in:
+I’m **Hytham Tag**, a Mechatronics Engineer and Robotics Lecturer who thrives on building systems that sense, learn, and adapt. With years of experience in academia, competitive robotics, and industrial prototyping, I'm enthusiastic about:
 
 - 🤖 Deep Reinforcement Learning & Robotic Manipulation
 - 🔬 Robotic Vision, Embedded Systems, and Task Planning
