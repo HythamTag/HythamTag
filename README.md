@@ -2,7 +2,7 @@
 <h1 align="center">👨‍🔬 Hytham Tag</h1>
 <p align="center">
   <b>Mechatronics Engineer | Junior Robotics Researcher | Embedded Systems Developer</b><br>
-  Assistant Lecturer · Robotics Mentor · AI Explorer
+  Teaching Assistant · Robotics Mentor · AI Explorer
 </p>
 
 <p align="center">
